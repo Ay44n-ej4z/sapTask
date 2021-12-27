@@ -1,0 +1,806 @@
+
+**** Log file opened at 2021-12-27 10:18:57.421990 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:18:57.437351 [06852] >> Info entry
+	Did not find config file D:\sapUI5\server\sapnwrfc.ini.
+
+**** Log file opened at 2021-12-27 10:31:58.819020 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:31:58.834683 [06956] >> Error entry
+	[Handle: 2374556449328	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:31:58 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:31:58.882834 [07480] >> Error entry
+	[Handle: 2374556449328	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:31:58 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:32:38.157887 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:32:38.158085 [10500] >> Error entry
+	[Handle: 2823253356432	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:32:38 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:32:38.164455 [07344] >> Error entry
+	[Handle: 2823283818704	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:32:38 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:34:31.101004 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:34:31.101789 [03788] >> Error entry
+	[Handle: 2204074115200	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:34:31 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:34:31.110218 [08812] >> Error entry
+	[Handle: 2204074115200	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:34:31 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:34:31.160792 [00880] >> Error entry
+	[Handle: 2204074219648	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:34:31 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:34:31.161952 [10888] >> Error entry
+	[Handle: 2204074219648	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:34:31 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:36:59.676486 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:36:59.676671 [10268] >> Error entry
+	[Handle: 2045080432688	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:36:59 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:36:59.683563 [09096] >> Error entry
+	[Handle: 2045080432400	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:36:59 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:37:29.316092 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:37:29.316272 [00832] >> Error entry
+	[Handle: 2136454422304	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:37:29 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:37:29.324731 [09052] >> Error entry
+	[Handle: 2136454422304	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:37:29 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:38:20.708686 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:38:20.709019 [06380] >> Error entry
+	[Handle: 2703574337664	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:20 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:20.719580 [07700] >> Error entry
+	[Handle: 2703574337664	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:20 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:22.694369 [04852] >> Error entry
+	[Handle: 2703574337664	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:22 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:22.714327 [09408] >> Error entry
+	[Handle: 2703574519952	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:22 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:38:39.400284 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:38:39.400588 [04980] >> Error entry
+	[Handle: 2052235056992	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:39 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:39.413043 [09924] >> Error entry
+	[Handle: 2052235056992	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:39 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:38:47.663289 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:38:47.663694 [10840] >> Error entry
+	[Handle: 1507111339968	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:47 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:47.677609 [04128] >> Error entry
+	[Handle: 1507111339968	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:47 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:49.051667 [04220] >> Error entry
+	[Handle: 1507111492432	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:49 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:38:49.067492 [04796] >> Error entry
+	[Handle: 1507111501296	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:38:49 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:40:13.548905 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:40:13.549224 [08180] >> Error entry
+	[Handle: 1568938415888	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:40:13 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:40:13.556773 [08752] >> Error entry
+	[Handle: 1568938415888	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:40:13 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:40:30.934082 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:40:30.934394 [07024] >> Error entry
+	[Handle: 2033175996208	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:40:30 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:40:30.942050 [05148] >> Error entry
+	[Handle: 2033176156608	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:40:30 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:49:06.119722 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:49:06.120095 [08740] >> Error entry
+	[Handle: 1519704509872	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:49:06 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:49:06.131771 [05424] >> Error entry
+	[Handle: 1519704778272	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:49:06 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:52:02.791122 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:52:02.791529 [02728] >> Error entry
+	[Handle: 1808419430128	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:52:02 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:52:02.809633 [07920] >> Error entry
+	[Handle: 1808431111408	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:52:02 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:53:22.315341 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:53:22.315558 [08668] >> Error entry
+	[Handle: 1497390681328	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:53:22 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:53:22.322132 [10660] >> Error entry
+	[Handle: 1497389281504	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:53:22 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:54:12.887617 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:54:12.887793 [03228] >> Error entry
+	[Handle: 1751407809536	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:54:12 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:54:12.894787 [00252] >> Error entry
+	[Handle: 1751407850464	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:54:12 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:54:21.825828 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:54:21.826191 [03784] >> Error entry
+	[Handle: 2251798597664	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:54:21 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:54:21.833449 [09192] >> Error entry
+	[Handle: 2251798751072	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:54:21 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:55:03.996899 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:55:03.997517 [03160] >> Error entry
+	[Handle: 3127247724496	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:03 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:55:04.013249 [07564] >> Error entry
+	[Handle: 3127278188240	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:04 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2021-12-27 10:55:18.783128 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: D:\sapUI5\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-27 10:55:18.783307 [05616] >> Error entry
+	[Handle: 2840764828608	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host DESKTOP-NBIGT0J with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:18 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:55:18.790083 [09112] >> Error entry
+	[Handle: 2840796682368	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:18 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:55:28.430413 [02072] >> Error entry
+	[Handle: 2840764660336	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:28 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:55:28.435852 [10372] >> Error entry
+	[Handle: 2840764660336	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:28 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+2021-12-27 10:55:30.246716 [05616] >> Error entry
+	[Handle: 2840764660336	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:30 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
+2021-12-27 10:55:30.248896 [09112] >> Error entry
+	[Handle: 2840764660336	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ROITech IDS (001)' unknown
+TIME        Mon Dec 27 10:55:30 2021
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
