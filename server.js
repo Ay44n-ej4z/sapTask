@@ -14,11 +14,11 @@ methods: ['GET', 'POST', 'PUT', 'DELETE'],
 }) )
 
 const pool = new noderfc.Pool({ connectionParameters: { 
-    ashost: 'sap.roitech.in',
-    sysid: 'IDS',
-    sysnr: '05',
-    user: 'P9TRNG',
-    Passwd: 'ROITech123',
+    ashost: '',
+    sysid: '',
+    sysnr: '',
+    user:   '',
+    Passwd: '',
  } 
 });
 
