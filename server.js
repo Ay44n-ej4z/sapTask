@@ -71,12 +71,12 @@ async function CallBAPI( FUNCTION_MODULE, props) {
  */
 function Connect() {
     const abapSystem = {
-        ashost: 'sap.roitech.in',
-        sysid: 'IDS',
-        sysnr: '05',
-        user: 'P9TRNG',
-        Passwd: 'ROITech1234',
-        dest: "MME",
+        ashost: '',
+        sysid: '',
+        sysnr: '',
+        user: '',
+        Passwd: '',
+        dest: "",
     }
 
     let client = new noderfc.Client(abapSystem);
