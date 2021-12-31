@@ -843,3 +843,60 @@ NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 
 2021-12-27 17:59:30.417595 [03636] >> Error entry
 	[Handle: 1734158762368	ConvID: 11212903	Target: m1423	SysID: IDS	SysNr: 05	User: P9TRNG	Mandant: XXX	Language: 	Codepage: 4103]
 	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2021-12-28 14:47:14.417425 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: C:\Users\AYAAN\Desktop\saptask\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-28 14:47:14.432251 [05688] >> Error entry
+	[Handle: 2556080815232	ConvID: 86015467	Target: m1423	SysID: IDS	SysNr: 05	User: P9TRNG	Mandant: 800	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 [object Object]
+
+**** Log file opened at 2021-12-28 14:48:04.077636 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: C:\Users\AYAAN\Desktop\saptask\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-28 14:48:04.078132 [08108] >> Error entry
+	[Handle: 2002866744128	ConvID: 86068287	Target: m1423	SysID: IDS	SysNr: 05	User: P9TRNG	Mandant: 800	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 [object Object]
+
+**** Log file opened at 2021-12-28 14:48:35.399183 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: C:\Users\AYAAN\Desktop\saptask\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-28 14:48:35.399801 [04456] >> Error entry
+	[Handle: 1801226373616	ConvID: 86101579	Target: m1423	SysID: IDS	SysNr: 05	User: P9TRNG	Mandant: 800	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 [object Object]
+
+**** Log file opened at 2021-12-28 14:51:17.444206 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: C:\Users\AYAAN\Desktop\saptask\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-28 14:51:17.444687 [11224] >> Error entry
+	[Handle: 2103960650240	ConvID: 86270625	Target: m1423	SysID: IDS	SysNr: 05	User: P9TRNG	Mandant: 800	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 () => {
+            const gen
+
+**** Log file opened at 2021-12-28 14:53:29.825548 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 9, Compiled on Dec 11 2021 01:53:21
+ CPIC library: 753.2021.05.10 version 3, NI library: 40, Kernel Release: 753 Patch Level 915
+ Current working directory: C:\Users\AYAAN\Desktop\saptask\server, Program: node
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 69 Step 1), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-NBIGT0J, IP address: 192.168.1.61, IPv6 address: fe80::994f:efa6:4422:418d
+
+2021-12-28 14:53:29.825788 [04912] >> Error entry
+	[Handle: 2455362922384	ConvID: 86405979	Target: m1423	SysID: IDS	SysNr: 05	User: P9TRNG	Mandant: 800	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 () => {
+            const gen
